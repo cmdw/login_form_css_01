@@ -14,4 +14,6 @@ _________     _____   ________   __      __
 
 A Pen created at CodePen.io. You can find this one at https://codepen.io/cmdw/pen/gZYpOM.
 
- 
+### License
+
+MIT - <http://www.opensource.org/licenses/mit-license.php>
